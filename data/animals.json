@@ -126,6 +126,55 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "nicola",
+      "species": "dog",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "material squirrel",
+      "species": "chanel 9 boots",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "zany",
+        "anxious"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "boogie",
+      "species": "boogie-woogie",
+      "diet": "woogies",
+      "personalityTraits": [
+        "laughter",
+        "friendliness",
+        "freedom"
+      ],
+      "id": "16"
+    },
+    {
+      "name": "turkey bacon",
+      "species": "turkey",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "loving"
+      ],
+      "id": "17"
     }
   ]
 }
