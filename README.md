@@ -1,38 +1,38 @@
 
   # project title
-  [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
-  [Description](#description)
-  [Installation](#installation)
-  [Usage](#usage)
-  [Contributing](#contributing)
-  [Tests](#tests)
-  [Questions](#questions)
-    7. [License](#license)
+  [Description](#description)< br />
+  [Installation](#installation)< br />
+  [Usage](#usage)< br />
+  [Contributing](#contributing)< br />
+  [Tests](#tests)< br />
+  [Questions](#questions)< br />
+  [License](#license)< br />
 
-  ## Description 
-  this is a description of the project
+  ## Description <a id="description"></a>
+  description of the project
 
-  ## Installation
-  here are the user installation instructions
+  ## Installation <a id="installation"></a>
+  these are the user installation instructions
 
-  ## Usage
-  here is the usage information
+  ## Usage <a ide="usage"></a>
+  this is the usage informaation
 
-  ## Contributing
-  here are the guidelines to contribute to this project
+  ## Contributing <a id="contributing"></a>
+  the guidelines to contribute to this project
 
-  ## Tests
-  here are the test instrcutions
+  ## Tests <a id="tests"></a>
+  these are the test instructions
 
 
-  ## Questions?
+  ## Questions? <a name="questions"></a>
   GitHub ❤️ : [http://github.com/nicolalenee]
   Email 📧: [marblenicola@gmail.com]
 
   
-  ## License
-  This project is covered under the GNU GPL v2 license.
+  ## License <a id="license"></a>
+  This project is covered under the GNU GPLv3 license.
     
 
