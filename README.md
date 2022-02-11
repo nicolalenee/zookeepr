@@ -1,30 +1,30 @@
 
-  # project name
+  # title
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-    - [Description] (https://github.com/nicolalenee/zookeepr#description-)
-    - [Installation] (#installation)
-    - [Usage] (#usage)
-    - [Contributing] (#contributing)
-    - [Tests] (#tests)
-    - [Questions] (#questions)
-    - [License] (#License)
+    1. [Description] (#description)
+    2. [Installation] (#installation)
+    3. [Usage] (#usage)
+    4. [Contributing] (#contributing)
+    5. [Tests] (#tests)
+    6. [Questions] (#questions)
+    7. [License] (#License)
 
-  ## Description <a name="description"></a>
-  description of the project
+  ## Description <a id="description"></a>
+  description goes here
 
-  ## Installation <a name="installation"></a>
-  the installation instructions
+  ## Installation <a id="installation"></a>
+  user installation instructions
 
-  ## Usage <a name="usage"></a>
-  here is the usage information
+  ## Usage <a ide="usage"></a>
+  the usgae information goes here
 
-  ## Contributing <a name="contributing"></a>
-  guidelines to contribute to this project
+  ## Contributing <a id="contributing"></a>
+  these are the guidelines to contribute to this project
 
-  ## Tests <a name="tests"></a>
-  the test instructions are as follows
+  ## Tests <a id="tests"></a>
+  testing instructions
 
 
   ## Questions? <a name="questions"></a>
@@ -32,7 +32,7 @@
   Email 📧: [marblenicola@gmail.com]
 
   
-  ## License <a name="license"></a>
+  ## License <a id="license"></a>
   This project is covered under the MIT license.
     
 
