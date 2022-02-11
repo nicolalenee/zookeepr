@@ -1,30 +1,30 @@
 
-  # project title
-  [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  # project name
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-  [Description](#description)< br />
-  [Installation](#installation)< br />
-  [Usage](#usage)< br />
-  [Contributing](#contributing)< br />
-  [Tests](#tests)< br />
-  [Questions](#questions)< br />
-  [License](#license)< br />
+  [Description](#description)  
+  [Installation](#installation)  
+  [Usage](#usage)  
+  [Contributing](#contributing)  
+  [Tests](#tests)  
+  [Questions](#questions)  
+  [License](#license)  
 
   ## Description <a id="description"></a>
-  description of the project
+  description of the project goes here
 
   ## Installation <a id="installation"></a>
-  these are the user installation instructions
+  installation instructions
 
   ## Usage <a ide="usage"></a>
-  this is the usage informaation
+  this is the usage information
 
   ## Contributing <a id="contributing"></a>
-  the guidelines to contribute to this project
+  guidelines to contribute to this project are as follows:
 
   ## Tests <a id="tests"></a>
-  these are the test instructions
+  here are the test instructions
 
 
   ## Questions? <a name="questions"></a>
@@ -33,6 +33,6 @@
 
   
   ## License <a id="license"></a>
-  This project is covered under the GNU GPLv3 license.
+  This project is covered under the MIT license.
     
 
