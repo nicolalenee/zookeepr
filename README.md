@@ -1,7 +1,7 @@
 
   # PROJECT TITLE
   
-      [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
+      [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
 
   ## Table of Contents
     - [Description] (# description)
