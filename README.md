@@ -1,38 +1,38 @@
 
-  # project name
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # project title
+  [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
   ## Table of Contents
-    1. [Description](#description)
-    2. [Installation](#installation)
-    3. [Usage](#usage)
-    4. [Contributing](#contributing)
-    5. [Tests](#tests)
-    6. [Questions](#questions)
+  [Description](#description)
+  [Installation](#installation)
+  [Usage](#usage)
+  [Contributing](#contributing)
+  [Tests](#tests)
+  [Questions](#questions)
     7. [License](#license)
 
-  ## Description <a id="description"></a>
-  describe your project
+  ## Description 
+  this is a description of the project
 
-  ## Installation <a id="installation"></a>
-  this is the user installation instructions
+  ## Installation
+  here are the user installation instructions
 
-  ## Usage <a ide="usage"></a>
-  this is the usage information
+  ## Usage
+  here is the usage information
 
-  ## Contributing <a id="contributing"></a>
-  these are the guidelines to contribute to this project
+  ## Contributing
+  here are the guidelines to contribute to this project
 
-  ## Tests <a id="tests"></a>
-  here are the testing instructions for the user
+  ## Tests
+  here are the test instrcutions
 
 
-  ## Questions? <a name="questions"></a>
-  GitHub ❤️ : [http://github.com/nicolelenee]
+  ## Questions?
+  GitHub ❤️ : [http://github.com/nicolalenee]
   Email 📧: [marblenicola@gmail.com]
 
   
-  ## License <a id="license"></a>
-  This project is covered under the MIT license.
+  ## License
+  This project is covered under the GNU GPL v2 license.
     
 
