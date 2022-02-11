@@ -1,32 +1,30 @@
 
   # PROJECT TITLE
-  
-      ![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)
-      (https://github.com/DAVFoundation/captain-n3m0/blob/master/LICENSE)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT);
 
   ## Table of Contents
-    - [Description] (# description)
-    - [Installation] (# installation)
-    - [Usage] (# usage)
-    - [Contributing] (# contributing)
-    - [Tests] (# tests)
-    - [Questions] (# questions)
-    - [License] Apache 2.0
+    - [Description] (#description)
+    - [Installation] (#installation)
+    - [Usage] (#usage)
+    - [Contributing] (#contributing)
+    - [Tests] (#tests)
+    - [Questions] (#questions)
+    - [License] (#License)
 
   ## Description
   Here is a brief description of the project
 
   ## Installation
-  These are the user installation instructions
+  Here is an example of some user instructions:
 
   ## Usage
-  This is the information about the usage
+  Here is an example of some usage information:
 
   ## Contributing
-  The guidelines for contributing to this project are as follows:
+  Here are the guidelines to contributing to this project:
 
   ## Tests
-  The type of testing that this project utilizes is"
+  Here are some testing instructions
 
 
   ## Questions?
@@ -35,6 +33,6 @@
 
   
   ## License
-  This project is covered under the Apache 2.0 license.
+  This project is covered under the MIT license.
     
 
