@@ -1,7 +1,7 @@
 
   # PROJECT TITLE
   
-      [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)]
+      [![License](https://img.shields.io/badge/license-Apache-blue)]
 
   ## Table of Contents
     - [Description] (# description)
