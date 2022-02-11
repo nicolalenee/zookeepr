@@ -1,34 +1,34 @@
 
-  # title
+  # project name
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
-    #description
-    (#installation)
-    (#usage)
-    (#contributing)
-    (#tests)
-    (#questions)
-    (#License)
+    1. [Description](#description)
+    2. [Installation](#installation)
+    3. [Usage](#usage)
+    4. [Contributing](#contributing)
+    5. [Tests](#tests)
+    6. [Questions](#questions)
+    7. [License](#license)
 
   ## Description <a id="description"></a>
-  description goes here
+  describe your project
 
   ## Installation <a id="installation"></a>
-  user installation instructions
+  this is the user installation instructions
 
   ## Usage <a ide="usage"></a>
-  the usgae information goes here
+  this is the usage information
 
   ## Contributing <a id="contributing"></a>
   these are the guidelines to contribute to this project
 
   ## Tests <a id="tests"></a>
-  testing instructions
+  here are the testing instructions for the user
 
 
   ## Questions? <a name="questions"></a>
-  GitHub ❤️ : [http://github.com/nicolalenee]
+  GitHub ❤️ : [http://github.com/nicolelenee]
   Email 📧: [marblenicola@gmail.com]
 
   
