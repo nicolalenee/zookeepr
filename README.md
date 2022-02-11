@@ -1,6 +1,6 @@
 
-  # PROJECT TITLE
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT);
+  # project name
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Table of Contents
     - [Description] (#description)
@@ -11,28 +11,28 @@
     - [Questions] (#questions)
     - [License] (#License)
 
-  ## Description
-  Here is a brief description of the project
+  ## Description <a name="description"></a>
+  description of the project
 
-  ## Installation
-  Here is an example of some user instructions:
+  ## Installation <a name="installation"></a>
+  the installation instructions
 
-  ## Usage
-  Here is an example of some usage information:
+  ## Usage <a name="usage"></a>
+  here is the usage information
 
-  ## Contributing
-  Here are the guidelines to contributing to this project:
+  ## Contributing <a name="contributing"></a>
+  guidelines to contribute to this project
 
-  ## Tests
-  Here are some testing instructions
+  ## Tests <a name="tests"></a>
+  the test instructions are as follows
 
 
-  ## Questions?
+  ## Questions? <a name="questions"></a>
   GitHub ❤️ : [http://github.com/nicolalenee]
   Email 📧: [marblenicola@gmail.com]
 
   
-  ## License
+  ## License <a name="license"></a>
   This project is covered under the MIT license.
     
 
