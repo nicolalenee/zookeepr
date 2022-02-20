@@ -175,6 +175,18 @@
         "loving"
       ],
       "id": "17"
+    },
+    {
+      "name": "doggie woggies",
+      "species": "doggie",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "18"
     }
   ]
 }
