@@ -1,9 +1,12 @@
 # Zookeeper
 
 ## Description 
-This fun-loving website allows a local zoo to track all of the animal friends and their caretakers in their loving enclosure! Zookeepers can log every animal and note all of the little things that make each individual animal unique as well as upload information about themselves. For zoos, keeping track of every person and animal that makes the zoo function so well can allow for more effecient placements.
+This fun-loving website allows a local zoo to track all of the animal friends and their caretakers in their loving enclosure! Zookeepers can log every animal and note all of the little things that make each individual animal unique as well as upload information about themselves. For zoos, keeping track of every person and animal that makes the zoo function so well can allow for more effecient placements. Users can also search and filter through certain characteristics to  view specific types of animals.
 
 <img width="1123" alt="image" src="https://user-images.githubusercontent.com/86696492/199106892-ce502ed6-fdd7-4b05-838a-8778b7762f22.png">
+
+<img width="1133" alt="image" src="https://user-images.githubusercontent.com/86696492/199108370-a1086870-63bc-43a5-9add-a92358b3f916.png">
+
 
 
 ## Installation
