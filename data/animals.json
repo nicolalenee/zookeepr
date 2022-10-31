@@ -196,6 +196,15 @@
         "hungry"
       ],
       "id": "19"
+    },
+    {
+      "name": "Lily",
+      "species": "Panda",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "20"
     }
   ]
 }

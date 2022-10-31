@@ -3,16 +3,18 @@
 ## Description 
 This fun-loving website allows a local zoo to track all of the animal friends and their caretakers in their loving enclosure! Zookeepers can log every animal and note all of the little things that make each individual animal unique as well as upload information about themselves. For zoos, keeping track of every person and animal that makes the zoo function so well can allow for more effecient placements.
 
+<img width="1123" alt="image" src="https://user-images.githubusercontent.com/86696492/199106892-ce502ed6-fdd7-4b05-838a-8778b7762f22.png">
+
 
 ## Installation
-To run this application locally, Node.Js must be installed on your machine.
+To run this application locally, Node.js must be installed on your machine.
 
 ## Technology
-* Node.Js
+* Node.js
 * Express.js
 
 # Data Configuration
-The data within this application is stored in JSON format. This choice was made due to simplistic nature and very small number of object types we need in this application. Therefore, routes call on functions that mutate and validate the data upon entry. View the following snippet to add an animal to the existing array:
+The data within this application is stored in JSON format. This choice was made due to simplistic nature and very small number of object types we need here. Therefore, routes call on functions that mutate and validate the data upon user entry. View the following snippet to add an animal to the existing array:
 ```javascript
 function createNewAnimal(body, animalsArray) {
   const animal = body;
@@ -22,11 +24,13 @@ function createNewAnimal(body, animalsArray) {
     JSON.stringify({ animals: animalsArray }, null, 2)
   );
   return animal;
-}
+};
 ```
-Here, we have a function that takes the information that is entered in by our front end users and stored in the body of the request header. It pushes that information into the array by stringifying the json object. 
 
-When a user hits the api endpoint by submitting a form for a new animal, the previous function is called. In this application, the routes follow REST API structure and can be seen as follows: 
+Here, we have a function that takes the information that is entered in by our front end users and stored in the body of the request header. It pushes that information into the array by stringifying the JSOON object then joins that information to the existing information that holds that JSON object of animals.
+
+When a user hits the API endpoint by submitting a form for a new animal, the former function is called. In this application, the routes follow REST API structure and can be seen as follows: 
+
 ```javascript
 router.post('/animals', (req, res) => {
   // set id based on what the next index of the array will be
@@ -41,7 +45,8 @@ router.post('/animals', (req, res) => {
   }
 });
 ```
-Here, we set up the route and determine the ID of the animal so that we can insert it in the proper index within the array. We validate the information that is submitted by the user to ensure that we have no missing data, then we call our function to update the animals array and the coinciding json file.
+
+Here, we set up the route and determine the ID of the animal so that we can insert it in the proper index within the array. We validate the information that is submitted by the user to ensure that we have no missing data, then we call our function to update the animals array and the coinciding JSON file.
 
 
 
