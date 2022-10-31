@@ -9,7 +9,7 @@ To run this application locally, Node.Js must be installed on your machine.
 
 # Configuration
 The data within this application is stored in JSON format. Therefore, routes call on functions that mutate and validate the data upon entry. View the following snippet to add an animal to the array of animals within the JSON file.:
-```
+```javascript
 function createNewAnimal(body, animalsArray) {
   const animal = body;
   animalsArray.push(animal);
