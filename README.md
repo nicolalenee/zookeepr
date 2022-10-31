@@ -1,38 +1,32 @@
+# Zookeeper
 
-  # project name
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-  ## Table of Contents
-  [Description](#description)  
-  [Installation](#installation)  
-  [Usage](#usage)  
-  [Contributing](#contributing)  
-  [Tests](#tests)  
-  [Questions](#questions)  
-  [License](#license)  
-
-  ## Description <a id="description"></a>
-  description of the project goes here
-
-  ## Installation <a id="installation"></a>
-  installation instructions
-
-  ## Usage <a ide="usage"></a>
-  this is the usage information
-
-  ## Contributing <a id="contributing"></a>
-  guidelines to contribute to this project are as follows:
-
-  ## Tests <a id="tests"></a>
-  here are the test instructions
+## Description 
+This fun-loving website allows a local zoo to track all of the animal friends and their caretakers in their loving enclosure! Zookeepers can log every animal and note all of the little things that make each individual animal unique as well as upload information about themselves. For zoos, keeping track of every person and animal that makes the zoo function so well can allow for more effecient placements.
 
 
-  ## Questions? <a name="questions"></a>
+## Installation
+To run this application locally, Node.Js must be installed on your machine.
+
+# Configuration
+The data within this application is stored in JSON format. Therefore, routes call on functions that mutate and validate the data upon entry. View the following snippet to add an animal to the array of animals within the JSON file.:
+```
+function createNewAnimal(body, animalsArray) {
+  const animal = body;
+  animalsArray.push(animal);
+  fs.writeFileSync(
+    path.join(__dirname, '../data/animals.json'),
+    JSON.stringify({ animals: animalsArray }, null, 2)
+  );
+  return animal;
+}
+```
+
+
+
+
+  ## Questions
   GitHub ❤️ : [http://github.com/nicolalenee]
   Email 📧: [marblenicola@gmail.com]
 
-  
-  ## License <a id="license"></a>
-  This project is covered under the MIT license.
-    
+
 

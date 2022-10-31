@@ -187,6 +187,15 @@
         "goofy"
       ],
       "id": "18"
+    },
+    {
+      "name": "lily",
+      "species": "panda",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "19"
     }
   ]
 }
