@@ -30,7 +30,7 @@ function createNewAnimal(body, animalsArray) {
 };
 ```
 
-Here, we have a function that takes the information that is entered in by our front end users and stored in the body of the request header. It pushes that information into the array by stringifying the JSOON object then joins that information to the existing information that holds that JSON object of animals.
+Here, we have a function that takes the information that is entered in by our front end users and stored in the body of the request header. It pushes that information into the array by stringifying the JSON object then joins that information to the existing file.
 
 When a user hits the API endpoint by submitting a form for a new animal, the former function is called. In this application, the routes follow REST API structure and can be seen as follows: 
 
